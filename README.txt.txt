@@ -1,1 +1,0 @@
-Manansad Clinic
