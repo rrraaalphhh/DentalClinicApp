@@ -1,4 +1,4 @@
-package org.cai.patientapp.model;
+package org.dmcds.dental.api.model;
 
 import java.io.Serializable;
 import java.time.LocalDate;

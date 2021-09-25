@@ -1,4 +1,4 @@
-package org.cai.patientapp.service;
+package org.dmcds.dental.api.service;
 
 import java.time.LocalDate;
 
@@ -6,8 +6,8 @@ import java.util.List;
 
 import javax.transaction.Transactional;
 
-import org.cai.patientapp.model.Patient;
-import org.cai.patientapp.repository.PatientRepository;
+import org.dmcds.dental.api.model.Patient;
+import org.dmcds.dental.api.repository.PatientRepository;
 import org.joda.time.DateTime;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

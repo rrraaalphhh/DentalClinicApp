@@ -1,4 +1,4 @@
-package org.cai.patientapp;
+package org.dmcds.dental.api;
 
 import java.util.Arrays;
 
@@ -10,10 +10,10 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.web.filter.CorsFilter;
 
 @SpringBootApplication
-public class PatientAppApplication {
+public class DentalApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PatientAppApplication.class, args);
+		SpringApplication.run(DentalApiApplication.class, args);
 	}
 
 	@Bean

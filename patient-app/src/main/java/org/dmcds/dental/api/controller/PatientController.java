@@ -1,9 +1,9 @@
-package org.cai.patientapp.controller;
+package org.dmcds.dental.api.controller;
 
 import java.util.List;
 
-import org.cai.patientapp.model.Patient;
-import org.cai.patientapp.service.PatientService;
+import org.dmcds.dental.api.model.Patient;
+import org.dmcds.dental.api.service.PatientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

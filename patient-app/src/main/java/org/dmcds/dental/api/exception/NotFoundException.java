@@ -1,4 +1,4 @@
-package org.cai.patientapp.exception;
+package org.dmcds.dental.api.exception;
 
 public class NotFoundException extends RuntimeException {
 	

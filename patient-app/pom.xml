@@ -9,11 +9,11 @@
 		<version>2.5.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ex.cai</groupId>
-	<artifactId>patient-app</artifactId>
+	<groupId>dmcds</groupId>
+	<artifactId>dental-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>patient-app</name>
-	<description>Patient App</description>
+	<name>dental-app</name>
+	<description>Dental App</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
