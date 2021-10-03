@@ -13,12 +13,22 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatDialogModule } from '@angular/material/dialog';
 import { FormsModule } from '@angular/forms';
 import { PatientService } from './service/patient.service';
+import { LoginComponent } from './login/login.component';
+import { HomeComponent } from './home/home.component';
+import { AboutComponent } from './home/about/about.component';
+import { ServicesComponent } from './home/services/services.component';
+import { ContactComponent } from './home/contact/contact.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PatientPageComponent,
     NavbarComponent,
+    LoginComponent,
+    HomeComponent,
+    AboutComponent,
+    ServicesComponent,
+    ContactComponent,
   ],
   imports: [
     BrowserModule,
